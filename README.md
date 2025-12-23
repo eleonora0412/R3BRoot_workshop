@@ -28,13 +28,16 @@ This repository is intended for educational and scientific use within the R3B co
 ## Useful Links
 
 ---- Anar Manafov workflow ----
-* https://github.com/AnarManafov/GitWorkflow/blob/master/GitWorkflow.markdown
+* https://github.com/AnarManafov/GitWorkflow/tree/master
 
 ---- Git cheat sheet ----
-* https://training.github.com/downloads/github-git-cheat-sheet/
+* https://education.github.com/git-cheat-sheet-education.pdf
+
+---- Conventional commits ----
+* https://www.conventionalcommits.org/en/v1.0.0/
 
 ---- The git book ----
 * https://github.com/progit/progit2/releases/download/2.1.360/progit.pdf
 
----- Github tokens ----
+---- GitHub tokens ----
 * https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
