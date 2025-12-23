@@ -24,6 +24,9 @@ If you encounter problems or have questions:
 
 This repository is intended for educational and scientific use within the R3B collaboration and related activities.
 
+## Contributing
+
+Please ask your questions, request features, and report issues by [creating a github issue](https://github.com/R3BRootGroup/R3BRoot_workshop/issues/new/choose).
 
 ## Useful Links
 
